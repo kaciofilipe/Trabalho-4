@@ -1,5 +1,10 @@
 # Trabalho-4
-Descrição do trabalho 
+
+## 🎓Integrante do Grupo:
+- Kácio Felipe
+- Heloise Katharine
+
+## 📋 Descrição do trabalho 
 
 1. Crie um projeto no github e compartilhe com o professor (usuário: josegoncalo); 
 
@@ -16,3 +21,4 @@ Descrição do trabalho
 7.Crie um webservice para fazer CRUD das tabelas criadas no trabalho anterior: empregado (cpf, nome, idade, salario) e dependente (cpfEmpregado, nome, grauParentesco, dataNascimento); 
 
 8. Execute os comandos: git add ., git commit -m “Coloque a informação que quiser”, git push Obs.: os itens de 1 a 6 podem ser feitos na primeira semana, os outros poderão ser feitos na segunda semana.
+
