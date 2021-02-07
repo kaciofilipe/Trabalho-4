@@ -14,11 +14,11 @@
 
 4. Baixe o projeto e descompacte-o dentro da pasta clonada; 
 
-5.Coloque as dependências do postgresql e do hibernate no pom do projeto; 
+5. Coloque as dependências do postgresql e do hibernate no pom do projeto; 
 
-6.Crie um banco de dados chamado trabalho4; 
+6. Crie um banco de dados chamado trabalho4; 
 
-7.Crie um webservice para fazer CRUD das tabelas criadas no trabalho anterior: empregado (cpf, nome, idade, salario) e dependente (cpfEmpregado, nome, grauParentesco, dataNascimento); 
+7. Crie um webservice para fazer CRUD das tabelas criadas no trabalho anterior: empregado (cpf, nome, idade, salario) e dependente (cpfEmpregado, nome, grauParentesco, dataNascimento); 
 
 8. Execute os comandos: git add ., git commit -m “Coloque a informação que quiser”, git push Obs.: os itens de 1 a 6 podem ser feitos na primeira semana, os outros poderão ser feitos na segunda semana.
 
